@@ -8,11 +8,17 @@ I am interested in details about this topic, so if I find anything interesting t
 ANALYSIS
 
 To analyze and visualize this data, DAX (Data Analysis Expression) and PowerBI were utilized respectively.
+
 The calculation of the quantity of and the sum of the transactions were performed for each cardholder, each responsible department and each merchant.
+
 The ranking of the transactions was also demonstrated for cardholders and each department and merchant. 
+
 The calculation for year over year and month over month transactions were also performed for each entity.
+
 An in-depth analysis was also done to demonstrate the sum of the total transactions of by QTD and YTD for every entity.
+
 The quantity of the transactions, which were either greater or lower than the average transactions, was also calculated.
+
 
 
 MAIN CONCLUSIONS
