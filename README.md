@@ -1,11 +1,11 @@
 # PowerBI_Project_2_Procurement_Card_Transactions
 
-INTRODUCTION
+# INTRODUCTION
 
 The request was submitted to analyze the Card Payment in the Procurement Department in 2001 and 2014 years.
 I am interested in details about this topic, so if I find anything interesting then I do not hesitate to bring that in also. 
 
-ANALYSIS
+# ANALYSIS
 
 To analyze and visualize this data, DAX (Data Analysis Expression) and PowerBI were utilized respectively.
 
@@ -21,7 +21,7 @@ The quantity of the transactions, which were either greater or lower than the av
 
 
 
-MAIN CONCLUSIONS
+# MAIN CONCLUSIONS
 
 1.	Joseph Kulas made the greatest sum of transactions (427770$)
 2.	Marcia Rouvell made the greatest number of transactions (2929)
